@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+}
+#data {
+  margin-top: 20px;
+}
+.data-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+}
